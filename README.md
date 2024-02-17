@@ -10,6 +10,7 @@ The synergy between the retriever and the generator in RAG leverages the strengt
 
 
 
+
 ***News Personalization: Leveraging RAG for Targeted Content Delivery***
 
 To address the information overload encountered by modern news consumers, I built a tool leveraging RAG and LLMs for personalized news article retrieval and summarization. The process starts with a user entering a search request. Then RAG employs semantic search to identify relevant articles. The retrieved articles are then fed into an LLM, acting as a sophisticated summarization engine, to produce concise and accurate summaries capturing the essence across the articles. 
